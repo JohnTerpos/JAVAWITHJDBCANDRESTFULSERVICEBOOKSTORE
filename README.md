@@ -1,4 +1,4 @@
-# JAVAWITHJDBCANDRESTFULSERVICEBOOKSTORE
+# RESTFULSERVICEBOOKSTORE
 
 Σε αυτό το πρότζεκτ, δημιουργήθηκε ένα Java RESTFUL Web Service Ηλεκτρονικού Βιβλιοπωλείου στο NetBeans 8.2.
 Τα στοιχεία των βιβλίων αποθηκεύονται σε βάση δεδομένων που δημιουργήθηκε μέσω του εργαλείου PHPMYADMIN.
